@@ -28,7 +28,7 @@
       <ul class="navbar-nav me-auto">
           <!-- Opción de Inicio -->
         <li class="nav-item">
-          <a class="nav-link active" href="{{ route('inicio') }}">Inicio
+          <a class="nav-link active" href="{{ route('inicio') }}">Inicio 2
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
